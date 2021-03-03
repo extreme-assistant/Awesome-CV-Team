@@ -27,6 +27,8 @@
 * [深圳](#shenzhen)<br>
 * [香港](#xianggang)<br>
 * [台湾](#taiwan)<br><br>
+
+
 [2. 国外高校研究团队](#2)<br>
 * [美国](#meiguo)<br>
 * [加拿大](#jianada)<br>
@@ -43,7 +45,8 @@
 * [澳大利亚](#aodaliya)<br>
 * [以色列](#yiselie)<br>
 * [新加坡](#xinjiapo)<br><br>
-3. [企业研究团队](#3)<br><br>
+
+[3. 企业研究团队](#3)<br><br>
 
 <br>
 <a name="1"/> 
