@@ -632,7 +632,7 @@ Facebook：[FAIR 人工智能实验室](https://code.fb.com/category/ai-research
 
 商汤科技研究院：[闫俊杰](https://yan-junjie.github.io/)，[石建萍](https://shijianping.me/)，[伊帅](https://scholar.google.com/citations?user=afbbNmwAAAAJ&hl=zh-CN)，[邵婧](https://amandajshao.github.io/)，[武伟](https://wuwei-ai.org/)，[赵瑞](https://zhaorui.xyz/)，[张展鹏](https://zhzhanp.github.io/)，[任思捷](https://www.jimmyren.com/)，[孙文秀](https://scholar.google.com.hk/citations?user=X9lE6O4AAAAJ&hl=zh-CN)，[严琼](https://scholar.google.com/citations?user=uT9CtPYAAAAJ&hl=zh-CN)<br><br>
 
-腾讯：[腾讯AI Lab](https://ai.tencent.com/ailab/zh/index)，[张正友](https://scholar.google.com/citations?user=1I-DKy8AAAAJ&hl=zh-CN)，[俞刚](https://www.skicyyu.org/)<br><br>
+腾讯：[腾讯AI Lab](https://ai.tencent.com/ailab/zh/index)，[张正友](https://scholar.google.com/citations?user=1I-DKy8AAAAJ&hl=zh-CN)，[俞刚](https://www.skicyyu.org/)，[王珏](https://juew.org)，[宋奕兵](https://ybsong00.github.io)<br><br>
 
 字节跳动：[人工智能实验室](https://ailab.bytedance.com/)<br><br>
 
